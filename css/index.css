@@ -1,0 +1,42 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  list-style: none;
+}
+
+.wrapper {
+  width: 600px;
+  border: 1px solid black;
+  padding: 20px;
+}
+
+.box {
+  width: 600px;
+  height: 450px;
+  box-sizing: border-box;
+}
+
+canvas {
+  border: 1px solid black;
+}
+
+.test1 {
+  width: 600px;
+  height: 100px;
+}
+
+
+ul {
+  font-size: 0px;
+  margin-top:20px;
+}
+
+li {
+  display: inline-block;
+  vertical-align:middle;
+  margin-left:55px;
+}
+input{
+  width:50px;
+  height:30px;
+}
